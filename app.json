@@ -1,0 +1,17 @@
+{
+  "name": "07Data",
+  "displayName": "07Data",
+  "expo": {
+    "name": "07Data",
+    "slug": "07Data",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
